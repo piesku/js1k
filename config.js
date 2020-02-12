@@ -1,0 +1,4 @@
+const CANVAS_CONTEXT_TYPE = "2d";
+const CANVAS_CSS_WIDTH = "100%";
+const CANVAS_CSS_HEIGHT = "100%";
+const CANVAS_CSS_MARGIN = "0 auto";
